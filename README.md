@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomLiYouXiu
 - 👀 I’m interested in science,mathematics,Electronics
-- 🌱 I’m currently learning Web,java
+- 🌱 I’m currently learning Web,java，go
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sunsunsun5675@foxmail.com
 
