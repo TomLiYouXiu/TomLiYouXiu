@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @TomLiYouXiu
-- 👀 I’m interested in science,mathematics,Electronics
-- 🌱 I’m currently learning Web,java，go
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sunsunsun5675@foxmail.com
-
-<!---
-TomLiYouXiu/TomLiYouXiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);眉目舒展，顺问冬安!&center=true&size=27"> </a> </h1>
