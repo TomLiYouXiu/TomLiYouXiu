@@ -1,4 +1,5 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.println(%22Hello%2C%20World!%22);眉目舒展，顺问冬安!&center=true&size=27"> </a> </h1>
+<p>
 🤺 About Me
 
   大家好，我是liyouxiu。
@@ -10,4 +11,5 @@
   我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
 
   We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
-  <div align=right ><img src="https://github.com/TomLiYouXiu/TomLiYouXiu/blob/main/code.gif" width=30%></div>
+  <div align=right ><img src="https://github.com/TomLiYouXiu/TomLiYouXiu/blob/main/code.gif" width=30% align="right"></div>
+</p>
