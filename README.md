@@ -9,3 +9,4 @@
 
   我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
  <img src="https://github.com/TomLiYouXiu/TomLiYouXiu/blob/main/code.gif" width=30% align="right">
+ <img src="https://github.com/TomLiYouXiu/gihubSNK/blob/output/github-contribution-grid-snake.svg" width=65% align="lift">
